@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.markrogers.journal.app-mergeDebugResources-68:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Goosh\\.gradle\\caches\\9.0-milestone-1\\transforms\\597342ab1da9ca117514ca52fa7ed85e\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

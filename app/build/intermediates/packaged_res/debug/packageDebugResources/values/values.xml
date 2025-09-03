@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="tab_analyze">Analyze</string>
+    <string name="tab_calendar">Calendar</string>
+    <string name="tab_journal">Journal</string>
+    <string name="tab_metrics">Metrics</string>
+    <style name="Theme.Journal" parent="Theme.Material3.DayNight"/>
+</resources>
